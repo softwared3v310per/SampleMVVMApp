@@ -11,3 +11,5 @@
 //•    The forecast for a specific city should be presented in the application by:
 //o    showing a corresponding weather icon. Use the icons available through https://www.metaweather.com/static/img/weather/png/64/<weather>.png
 //o    Showing a few additional forecast data of your choice (as available through MetaWeather)
+
+(May need to do a pod install if after dowloading the project)
